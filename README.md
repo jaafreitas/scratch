@@ -9,7 +9,7 @@
 [Scratch Data Viewer Version 1 Extension](/scratch-dataviewer/v1)
 
 #### Examples
-[Same project but using Scientific Modelling Extension](gui/?project_file=/scratch/sm2.sb3)
+[Understanding basic concepts of Data Viewer Extension](gui/?project_file=/scratch/dv1.sb3)
 
 ### Scientific Modelling Extension
 [Scratch Scientific Modelling Extension](/scratch-scientific-modelling)
