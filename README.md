@@ -16,10 +16,8 @@
 
 [Scratch Scientific Modelling Box2d beta Extension](/scratch-scientific-modelling/box2d)
 
-#### Examples
-[Prove of concept using Scratch original blocks only](gui/?project_file=/scratch/sm1.sb3)
-
-[Same project but using Scientific Modelling Extension](gui/?project_file=/scratch/sm2.sb3)
+#### Example
+[ Diffusion model](gui/?project_file=/scratch/sm1.sb3)
 
 ## ScratchX
 [ScratchX BBC micro:bit Extension](/scratch-microbit-extension)
