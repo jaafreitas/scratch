@@ -3,7 +3,7 @@
 ## Experimental extensions all together
 [Scratch Data Viewer and Scientific Modelling extensions](gui/)
 
-[Do you want to try to remix any published Scratch project using all these extensions? Load this example project, change the project ID on the URL and start playing.](gui/?project_url=https://projects.scratch.mit.edu/414553292)?
+[Do you want to try to remix any published Scratch project using all these extensions? Load this example project, change the project ID on the URL and start playing.](gui/?project_url=https://projects.scratch.mit.edu/414553292)
 
 
 
