@@ -27,7 +27,7 @@
 [Do you want to try to remix this example using Data Viewer extension too?](gui/?project_url=/scratch/sm1.sb3)
 
 
-## Scientific Modelling Extension ALFA Extension (on hold)
+## Scientific Modelling Extension ALFA version (on hold)
 [Scratch Scientific Modelling Box2d](/scratch-scientific-modelling/box2d)
 
 ### Example
