@@ -10,6 +10,10 @@
 ## Data Viewer Extension
 [Scratch Data Viewer Extension](/scratch-dataviewer)
 
+[Scratch Data Viewer Extension minimal blocks](/scratch-dataviewer/?minimal)
+
+[Scratch Data Viewer Extension minimal blocks (in Portuguese)](/scratch-dataviewer/?minimal&locale=pt-br)
+
 [Scratch Data Viewer Extension 2018 version](/scratch-dataviewer/v1)
 
 ### Example
