@@ -6,7 +6,6 @@
 [Do you want to try to remix any published Scratch project using all these extensions? Load this example project, change the project ID on the URL and start playing.](gui/?project_url=https://projects.scratch.mit.edu/414553292)
 
 
-
 ## Data Viewer Extension
 [Scratch Data Viewer Extension](/scratch-dataviewer)
 
@@ -65,7 +64,7 @@ Download this [diffusion model example](/sm1box2d.sb3) for a proof of concept.
 # Credits
 The Dataviewer and Scientific Modelling Scratch extensions are develop by Cassia Fernandez and João Adriano Freitas.
 
-If you've been using these extensions and you want to share your project or thoughts with us, please [contact us](bit.do/share-your-project)
+If you've been using these extensions and you want to share your project or thoughts with us, please [contact us](https://bit.do/share-your-project)
 
 ---
 Scratch is a project of the Scratch Foundation, in collaboration with the LLK group at the MIT Media Lab, maintained by the Scratch Team.
