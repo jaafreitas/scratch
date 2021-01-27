@@ -1,5 +1,3 @@
-# Play with Experimental Extensions to Scratch!
-
 ## Experimental extensions all together
 [Scratch Data Viewer and Scientific Modelling extensions](gui/)
 
