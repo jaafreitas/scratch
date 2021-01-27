@@ -58,13 +58,19 @@ Download this [diffusion model example](/sm1box2d.sb3) for a proof of concept.
 
 
 ## ScratchX
-[ScratchX BBC micro:bit Extension](/scratch-microbit-extension)
+[BBC micro:bit ScratchX extension](/scratch-microbit-extension)
 
 
 # Credits
-The Dataviewer and Scientific Modelling Scratch extensions are develop by Cassia Fernandez and João Adriano Freitas.
+The Dataviewer Scratch extensions are develop by Cassia Fernandez and João Adriano Freitas.
 
-If you've been using these extensions and you want to share your project or thoughts with us, please [contact us](https://bit.do/share-your-project)
+If you are using this extension and you want to share your project or thoughts with us, please [contact us](https://bit.do/share-your-project)
+
+
+The Scientific Modelling Scratch extensions are develop by Cassia Fernandez, João Adriano Freitas and Tamar Fuhrmann.
+
+
+The BBC micro:bit ScratchX extension is develop by João Adriano Freitas.
 
 ---
 Scratch is a project of the Scratch Foundation, in collaboration with the LLK group at the MIT Media Lab, maintained by the Scratch Team.
