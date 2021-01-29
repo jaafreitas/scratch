@@ -38,6 +38,8 @@
 
 [Do you want to try to remix this example using Scientific Modelling extension too?](gui/?project_url=/scratch/dv1.sb3)
 
+[Sample temperature data project](/scratch-dataviewer/?project_url=/scratch/Exemplo_Dados_temperatura.sb3)
+
 
 ## Scientific Modelling Extension
 [Scratch Scientific Modelling Extension](/scratch-scientific-modelling)
