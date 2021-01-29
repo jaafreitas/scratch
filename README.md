@@ -40,6 +40,7 @@
 
 [Sample temperature data project](/scratch-dataviewer/?project_url=/scratch/Exemplo_Dados_temperatura.sb3)
 
+[Sample earthquakes data project](/scratch-dataviewer/?project_url=/scratch/Exemplo_terremotos_dados.sb3)
 
 ## Scientific Modelling Extension
 [Scratch Scientific Modelling Extension](/scratch-scientific-modelling)
