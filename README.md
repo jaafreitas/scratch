@@ -7,7 +7,7 @@
 ## Data Viewer Extension
 [Scratch Data Viewer Extension](/scratch-dataviewer)
 
-[Scratch Data Viewer Extension (in Portuguese)](/scratch-dataviewer/?locale=pt-br)
+[Scratch Data Viewer Extension (in Portuguese)](/scratch-dataviewer/?lang=pt-br)
 
 [Scratch Data Viewer Extension 2018 version](/scratch-dataviewer/v1)
 
@@ -45,6 +45,11 @@
 ## Scientific Modelling Extension
 [Scratch Scientific Modelling Extension](/scratch-scientific-modelling)
 
+[Scratch Scientific Modelling Extension (in Portuguese)](/scratch-scientific-modelling/?lang=pt-br)
+
+[Scratch Scientific Modelling Extension (in Italian)](/scratch-scientific-modelling/?lang=it)
+
+
 ### Example
 [Diffusion model](/scratch-scientific-modelling/?project_url=/scratch/sm1.sb3)
 
@@ -53,6 +58,7 @@
 
 ## Scientific Modelling Extension ALFA version (on hold)
 [Scratch Scientific Modelling Box2d](/scratch-scientific-modelling/box2d)
+
 
 ### Example
 Download this [diffusion model example](/sm1box2d.sb3) for a proof of concept.
