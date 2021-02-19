@@ -49,9 +49,10 @@
 
 [Scratch Scientific Modelling Extension (in Italian)](/scratch-scientific-modelling/?lang=it)
 
+[Scratch Scientific Modelling 2020 version](/scratch-scientific-modelling/v1)
 
 ### Example
-[Diffusion model](/scratch-scientific-modelling/?project_url=/scratch/sm1.sb3)
+[Diffusion model](/scratch-scientific-modelling/v1/?project_url=/scratch/sm1.sb3)
 
 [Do you want to try to remix this example using Data Viewer extension too?](gui/?project_url=/scratch/sm1.sb3)
 
