@@ -51,6 +51,8 @@
 
 [Scratch Scientific Modelling Extension 2020 version](/scratch-scientific-modelling/v1)
 
+[Sample earthquakes data project - PT and commented](/scratch-dataviewer/?project_url=/scratch/Terremotos_globo_202211.sb3)
+
 ### Example
 [Diffusion model](/scratch-scientific-modelling/v1/?project_url=/scratch/sm1.sb3)
 
