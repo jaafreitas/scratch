@@ -42,6 +42,11 @@
 
 [Sample earthquakes data project](/scratch-dataviewer/?project_url=/scratch/Exemplo_terremotos_dados.sb3)
 
+[Sample earthquakes map project - PT and commented](/scratch-dataviewer/?project_url=/scratch/Terremotos_globo_202211.sb3)
+
+[Sample earthquakes depth project - PT and commented](/scratch-dataviewer/?project_url=/scratch/Terremotos_profundidade_202211.sb3)
+
+
 ## Scientific Modelling Extension
 [Scratch Scientific Modelling Extension](/scratch-scientific-modelling)
 
@@ -50,8 +55,6 @@
 [Scratch Scientific Modelling Extension (in Italian)](/scratch-scientific-modelling/?lang=it)
 
 [Scratch Scientific Modelling Extension 2020 version](/scratch-scientific-modelling/v1)
-
-[Sample earthquakes data project - PT and commented](/scratch-dataviewer/?project_url=/scratch/Terremotos_globo_202211.sb3)
 
 ### Example
 [Diffusion model](/scratch-scientific-modelling/v1/?project_url=/scratch/sm1.sb3)
