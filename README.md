@@ -12,44 +12,44 @@
 [Scratch Data Viewer Extension 2018 version](/scratch-dataviewer/v1)
 
 ### Example
-[Understanding basic concepts of Data Viewer Extension](/scratch-dataviewer/?project_url=/scratch/dv1.sb3)
+[Understanding basic concepts of Data Viewer Extension](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/dv1.sb3)
 
-[Earthquakes Around the Globe](/scratch-dataviewer/?project_url=/scratch/EarthquakesAroundGlobe.sb3)
+[Earthquakes Around the Globe](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/EarthquakesAroundGlobe.sb3)
 
-[Earthquakes Music](/scratch-dataviewer/?project_url=/scratch/EarthquakesMusic.sb3)
+[Earthquakes Music](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/EarthquakesMusic.sb3)
 
-[Data Sampling](/scratch-dataviewer/?project_url=/scratch/Sampling.sb3)
+[Data Sampling](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/Sampling.sb3)
 
-[Tides and the Moon](/scratch-dataviewer/?project_url=/scratch/TidesMoonGraph.sb3)
+[Tides and the Moon](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/TidesMoonGraph.sb3)
 
-[Global Warming](/scratch-dataviewer/?project_url=/scratch/GlobalWarming.sb3)
+[Global Warming](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/GlobalWarming.sb3)
 
-[Bar Color Palette](/scratch-dataviewer/?project_url=/scratch/SixeYColors.sb3)
+[Bar Color Palette](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/SixeYColors.sb3)
 
-[World Population](/scratch-dataviewer/?project_url=/scratch/WorldPopulation.sb3)
+[World Population](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/WorldPopulation.sb3)
 
-[ThingSpeak data sensors import](/scratch-dataviewer/?project_url=/scratch/ThingSpeak.sb3)
+[ThingSpeak data sensors import](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/ThingSpeak.sb3)
 
-[Global Warming CSV import](/scratch-dataviewer/?project_url=/scratch/GlobalWarmingCSV.sb3)
+[Global Warming CSV import](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/GlobalWarmingCSV.sb3)
 
-[How Do You Sum?](/scratch-dataviewer/?project_url=/scratch/HowDoYouSum.sb3)
+[How Do You Sum?](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/HowDoYouSum.sb3)
 
-[Nested Loops demonstration](/scratch-dataviewer/?project_url=/scratch/NestedLoops.sb3)
+[Nested Loops demonstration](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/NestedLoops.sb3)
 
-[Do you want to try to remix this example using Scientific Modelling extension too?](gui/?project_url=/scratch/dv1.sb3)
+[Do you want to try to remix this example using Scientific Modelling extension too?](gui/?project_url=https://jaafreitas.github.io/scratch/dv1.sb3)
 
-[Sample temperature data project](/scratch-dataviewer/?project_url=/scratch/Exemplo_Dados_temperatura.sb3)
+[Sample temperature data project](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/Exemplo_Dados_temperatura.sb3)
 
-[Sample earthquakes data project](/scratch-dataviewer/?project_url=/scratch/Exemplo_terremotos_dados.sb3)
+[Sample earthquakes data project](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/Exemplo_terremotos_dados.sb3)
 
-[Sample earthquakes map project - PT and commented](/scratch-dataviewer/?project_url=/scratch/Terremotos_globo_202211.sb3)
+[Sample earthquakes map project - PT and commented](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/Terremotos_globo_202211.sb3)
 
-[Sample earthquakes depth project - PT and commented](/scratch-dataviewer/?project_url=/scratch/Terremotos_profundidade_202211.sb3)
+[Sample earthquakes depth project - PT and commented](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/Terremotos_profundidade_202211.sb3)
 
 ### Examples 2022
-[Answers to forms - Vera Cruz ](/scratch-dataviewer/?project_url=/scratch/Vera_Cruz_Apresentação_alunos_20221204.sb3)
+[Answers to forms - Vera Cruz ](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/Vera_Cruz_Apresentação_alunos_20221204.sb3)
 
-[PlayData basics - Vera Cruz ](/scratch-dataviewer/?project_url=/scratch/Tutorial1.FundamentosPlayData_20221204.sb3)
+[PlayData basics - Vera Cruz ](/scratch-dataviewer/?project_url=https://jaafreitas.github.io/scratch/Tutorial1.FundamentosPlayData_20221204.sb3)
 
 
 
@@ -63,9 +63,9 @@
 [Scratch Scientific Modelling Extension 2020 version](/scratch-scientific-modelling/v1)
 
 ### Example
-[Diffusion model](/scratch-scientific-modelling/v1/?project_url=/scratch/sm1.sb3)
+[Diffusion model](/scratch-scientific-modelling/v1/?project_url=https://jaafreitas.github.io/scratch/sm1.sb3)
 
-[Do you want to try to remix this example using Data Viewer extension too?](gui/?project_url=/scratch/sm1.sb3)
+[Do you want to try to remix this example using Data Viewer extension too?](gui/?project_url=https://jaafreitas.github.io/scratch/sm1.sb3)
 
 
 ## Scientific Modelling Extension ALFA version (on hold)
